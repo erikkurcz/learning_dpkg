@@ -15,7 +15,7 @@ int main(int argc, char* argv[]){
     
     // Parse args
     if (argc != 2){ 
-        std::cerr << "Incorrect number of arguments: " << argc << std::endl;
+        std::cerr << "Incorrect number of arguments: " << argc-1 << std::endl;
         usage();
         return 1;
     }
