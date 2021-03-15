@@ -1,1 +1,7 @@
 counter*
+*.deb
+
+hello_func_example/src/*.a
+hello_func_example/src/*.o
+
+control
