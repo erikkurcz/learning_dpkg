@@ -4,6 +4,8 @@ This repo is just to learn how to package with DPKG and install, uninstall, the 
 
 * Source for how to make a basic deb: https://ubuntuforums.org/showthread.php?t=910717
 * Another: https://chat.stackexchange.com/rooms/663/conversation/the-basics-of-packaging-on-ubuntu-packaging-part-1
+* Anotha one: https://renenyffenegger.ch/notes/development/languages/C-C-plus-plus/GCC/create-libraries/index
+
 
 
 ## Compilation
